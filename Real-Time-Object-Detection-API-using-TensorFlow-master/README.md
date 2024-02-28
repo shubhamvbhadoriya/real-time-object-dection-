@@ -61,10 +61,5 @@ More information can be found <a href="http://www.cogsys.org/papers/2013poster15
 </ol>
 
 # Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
+## shubham bhadoriya
+
